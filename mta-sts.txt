@@ -1,0 +1,4 @@
+version: STSv1
+mode: none
+mx: mail.harpalclinic.co.uk
+max_age: 10368000
